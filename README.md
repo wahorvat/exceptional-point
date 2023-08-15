@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project offers a tool in JAX based to study the evolution of quantum states around exceptional point (EP) singularities. This repo conatins code for numerical methods to model relevant PDE solutions, along with visualizations of the system evolution. 
+This project offers a JAX based tool to study the evolution of quantum states around exceptional point (EP) singularities. This repo conatins code for numerical methods to model relevant PDE solutions, along with visualizations of the system evolution. 
 
 ## Installation
 
