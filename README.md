@@ -25,8 +25,8 @@ Please report any bugs that you find [here](https://github.com/wahorvat/exceptio
 Or, even better, fork the repository on [GitHub](https://github.com/wahorvat/exceptional-point)
 and create a pull request (PR).
 
-## Citing FrustratedGraphs
-If FrustratedGraphs helps your research, we appreciate your citations. Here is the BibTeX entry:
+## Citing Exceptional Point Simulation
+If exceptional point simulation helps your research, we appreciate your citations. Here is the BibTeX entry:
 ```bibtex
 @misc{wahorvat2023exceptionalpoint,
 	title        = {ExceptionalPoint},
